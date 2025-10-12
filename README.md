@@ -25,7 +25,7 @@ Skills: REACT / JAVASCRIPT / HTML / CSS
 
 
 
-![Asif's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![Asif's GitHub stats](https://github-readme-stats.vercel.app/api?username=asifamin502&show_icons=true&theme=transparent)
 
 ![GitHub metrics](https://metrics.lecoq.io/asifamin502)  
 
