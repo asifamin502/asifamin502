@@ -21,7 +21,7 @@ Skills: REACT / JAVASCRIPT / HTML / CSS
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=asifamin502)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asifamin502&layout=pie)](https://github.com/asifamin502/github-readme-stats)
 
 
 
