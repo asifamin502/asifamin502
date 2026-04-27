@@ -31,9 +31,7 @@ Currently improving my skills in React and exploring backend development with La
 - Add/delete tasks  
 - LocalStorage data persistence  
 
-### Weather App
-- Real-time API data fetching  
-- Dynamic UI based on user input  
+  
 
 ---
 
