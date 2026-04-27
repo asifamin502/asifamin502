@@ -1,4 +1,4 @@
-# Hi, I'm Asif 👋  
+# Hi, I'm Asif 
 Frontend Developer
 
 I’m a Computer Science graduate focused on building responsive and user-friendly web applications using React and JavaScript.
@@ -7,7 +7,7 @@ Currently improving my skills in React and exploring backend development with La
 
 ---
 
-## 🔧 Skills
+##  Skills
 - HTML, CSS, JavaScript (ES6)
 - React.js
 - React with TypeScript
@@ -15,7 +15,7 @@ Currently improving my skills in React and exploring backend development with La
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ### Portfolio Website
 - Built with React and React Router  
@@ -37,12 +37,12 @@ Currently improving my skills in React and exploring backend development with La
 
 ---
 
-## 🌐 Live Portfolio
-https://your-netlify-link.com
+##  Live Portfolio
+[https://your-netlify-link.com](https://asif-portfolio001.netlify.app/)
 
 ---
 
-## 📫 Contact
+## Contact
 Email: asifamin502@gmail.com  
 GitHub: https://github.com/asifamin502  
 LinkedIn: https://www.linkedin.com/in/asifamin502/
