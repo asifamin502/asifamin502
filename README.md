@@ -38,7 +38,7 @@ Currently improving my skills in React and exploring backend development with La
 ---
 
 ##  Live Portfolio
-[https://your-netlify-link.com](https://asif-portfolio001.netlify.app/)
+(https://asif-portfolio001.netlify.app/)
 
 ---
 
