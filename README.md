@@ -1,7 +1,7 @@
 # Hi, I'm Asif 
 Frontend Developer
 
-I’m a Computer Science graduate focused on building responsive and user-friendly web applications using React and JavaScript.
+I’m a Computer Science Engineering graduate focused on building responsive and user friendly web applications using React and JavaScript.
 
 Currently improving my skills in React and exploring backend development with Laravel.
 
